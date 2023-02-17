@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bcit.comp2522.labs.lab05.TreeCollectionTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-02-05T17:39:06" hostname="DESKTOP-2VJ4ISS" time="0.049">
+  <properties/>
+  <testcase name="testRightNodeLeafInsert()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.022"/>
+  <testcase name="testFirstRightNode()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.0"/>
+  <testcase name="testRoot()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.001"/>
+  <testcase name="testEmptyTree()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.001"/>
+  <testcase name="testLeftNodeLeafInsert()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.001"/>
+  <testcase name="orderTest()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.004"/>
+  <testcase name="structureTest()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.001"/>
+  <testcase name="testHasNextAtStartOfTree()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.001"/>
+  <testcase name="testSecondNodeRightLeaf()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.0"/>
+  <testcase name="testSecondLeftNode()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.001"/>
+  <testcase name="testFirstLeftNode()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.001"/>
+  <testcase name="testSecondNodeLeftLeaf()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.001"/>
+  <testcase name="testHasNextAtEndOfTree()" classname="org.bcit.comp2522.labs.lab05.TreeCollectionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
